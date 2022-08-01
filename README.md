@@ -10,4 +10,4 @@
 ### Hello, Devs!!
 - Este projeto consiste em ser um armazenador de arquivos restritos.
 - O mesmo foi desenvolvido para meu TCC e foi entregue com êxito.
-- Para a feitura, foram utilizados conseitos de Orientação a objeto, PHP, JavaScript, HTML e afins.
+- Para a feitura, foram utilizados conceitos de Orientação a objeto, PHP, JavaScript, HTML e afins.
